@@ -1,0 +1,39 @@
+.contact-page {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .contact-page h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .contact-page form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .contact-page label {
+    font-weight: bold;
+  }
+  
+  .contact-page input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .contact-page button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .contact-page button:hover {
+    background-color: #0056b3;
+  }
+  

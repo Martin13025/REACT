@@ -1,0 +1,16 @@
+.about-page {
+    padding: 20px;
+    background-color: #fff5e6;
+  }
+  
+  .about-page h1 {
+    font-size: 24px;
+    color: #444;
+  }
+  
+  .about-page p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+  }
+  
